@@ -49,5 +49,6 @@ input {
 }
 
 .primary:hover {
-	border-radius: 0px;
+	transform: 230px;
+	transition-duration: 1s; 
 }
