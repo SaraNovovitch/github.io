@@ -46,10 +46,11 @@ input {
 	font-weight:700;
 	font-size: 20px;
 	margin-top:200px;
-	align-content: center;
 }
 
 .primary:hover {
 	transform: 230px;
 	transition-duration: 1s; 
 }
+
+
