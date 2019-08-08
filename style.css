@@ -34,6 +34,7 @@ input {
 }*/
 
 .centered_elements {
+	display: flex;
 	justify-content: center;
 }
 
