@@ -33,8 +33,7 @@ input {
 	width: 300px;
 }*/
 
-.centered_elements { 
-	display: flex;
+.centered_elements {
 	justify-content: center;
 }
 
