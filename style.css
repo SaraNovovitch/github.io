@@ -38,7 +38,7 @@ input {
 	justify-content: center;  
 }
 
-.primary {
+#mc_embed_signup input.primary {
 	border-radius: 100px;
 	padding: 5px 20px;
 	border: none;
