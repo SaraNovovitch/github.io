@@ -38,6 +38,10 @@ input {
 	justify-content: center;
 }
 
+#mc_embed_signup form {
+	padding: 10px 0 10px 0;
+}
+
 #mc_embed_signup input.primary {
 	border-radius: 100px;
 	padding: 5px 20px;
