@@ -46,6 +46,8 @@ input {
 	font-size: 20px;
 	margin-top: 200px;
 	justify-content: center;
+	margin-left: auto;
+	margin-right: auto;
 }
 
 .primary:hover {
