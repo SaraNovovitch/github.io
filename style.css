@@ -45,9 +45,8 @@ input {
 	font-weight: 700;
 	font-size: 20px;
 	margin-top: 200px;
+	display: flex;
 	justify-content: center;
-	margin-left: auto;
-	margin-right: auto;
 }
 
 .primary:hover {
